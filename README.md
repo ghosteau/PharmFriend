@@ -1,5 +1,3 @@
-This is purely a concept right now being fed random training data and evaluated based upon that.
+This is purely a concept right now being fed random training from Kaggle and evaluated based upon that. It is a very basic decision tree algorithm, however, I think with more developers and software engineering, this could have use in a real-world setting if implemented accordingly.
 
-In an ideal world, we can this decision tree real metrics and evaluate how it performs. On the current concept data, it is performing exceptionally well, which leads me to believe a decision tree or random forest will be the best route for this concept.
-
-Thank you for checking it out, much love.
+This is one of my older concepts, so this one is probably going to be on the back burner for a while, especially because real medical data is sensitive and hard to find. I would also be open to trying out neural networks rather than a decision tree algorithm. I decided to do it in Python and R just to give a basic idea of what it could look like!
